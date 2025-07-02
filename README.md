@@ -1,2 +1,2 @@
 - network stack is implemented in net folder.
-- core driver files are in kern folder.
+- core files are in kern folder.
